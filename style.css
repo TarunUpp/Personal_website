@@ -1,0 +1,204 @@
+body {
+  background-color: white;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #38444d;
+}
+
+div {
+  text-align: justify;
+  text-justify: inter-word;
+  display: inline-block;
+  width: 100%;
+  background-color: grey;
+}
+
+.image {
+  width: auto;
+  display: flex;
+  background-color: #5F6A6A;
+}
+
+li {
+  float: left;
+}
+
+a.skills {
+  color: black;
+}
+
+a.interests {
+  color: black;
+}
+
+a#resumebut {
+  color: black;
+}
+
+.homenav {
+  width: auto;
+  background-color: #99A3A4;
+  float: inline-start;
+
+}
+
+.nav {
+  background-color: silver;
+}
+
+a.education {
+  color: black;
+  float: right;
+}
+
+.info {
+
+  color: #7DCEA0;
+}
+
+li a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px 80px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #1A5276;
+}
+
+#about {
+  line-height: 2;
+  background-color: silver;
+}
+
+#WorkExperience {
+  background-color: silver;
+}
+
+#Education {
+  line-height: 2;
+  background-color: silver;
+}
+
+.copyright {
+  width: 100;
+  text-align: center;
+  padding: 25px 0;
+  background: #262626;
+  font-weight: 300;
+  margin-top: 20px;
+}
+
+
+
+#Skills {
+  line-height: 2;
+  background-color: silver;
+}
+
+#Interests {
+  line-height: 2;
+  background-color: silver;
+}
+
+#Awards {
+  background-color: silver;
+  height: 550px;
+}
+
+.containerfooter {
+  padding: 30px 0 25px;
+  background-color: #99A3A4;
+}
+
+#footer {
+  background-color: #99A3A4;
+}
+
+.copyright,
+.credits {
+  background-color: #99A3A4;
+}
+
+div h1 {
+  margin: auto;
+}
+
+div center {
+  margin: auto;
+}
+
+center h1 {
+  background-color: grey;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td,
+th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+table.a {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 1000px;
+}
+
+tr:nth-child(odd) {
+  background-color: #dddddd;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+input[type=text],
+select,
+textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 8px;
+  margin-bottom: 14px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: grey;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #1A5276;
+}
+
+.container {
+  border-radius: 4px;
+  background-color: silver;
+  padding: 20px;
+}
+
