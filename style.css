@@ -104,7 +104,6 @@ li a:hover {
 }
 
 #Interests {
-  line-height: 2;
   background-color: silver;
 }
 
@@ -201,4 +200,3 @@ input[type=submit]:hover {
   background-color: silver;
   padding: 20px;
 }
-
